@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio]("https://www.youtube.com/channel/UCX26HQPm9aCgvf03yzh3bhg")**
 
 - 📫 How to reach me **priyanknaik17@gmail.com**
 
