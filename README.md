@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://![Programming-pana](https://user-images.githubusercontent.com/104668352/168461621-dad5dfe5-a5e8-4b43-9abb-6e469a3972a6.png)
+" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
 <h3 align="center">I'm a passionate FRONT END DEVELOPER from India.</h3>
