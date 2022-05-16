@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="500px" src="https://deeswebverse.com/wp-content/uploads/2020/11/Programmer.png" height="175px"/></a>
+<a href="#"><img width="100%" height="500px" src="Programmer-rafiki (1).png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
 <h3 align="center">I'm a passionate FRONT END DEVELOPER from India.</h3>
