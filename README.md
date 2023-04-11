@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="Programming-pana.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
-<h3 align="center">I'm a passionate FRONT END DEVELOPER from India.</h3>
+<h3 align="center">I'm a passionate JAVA DEVELOPER from India.</h3>
 
 
 ## 🙋‍♂️ About Me
