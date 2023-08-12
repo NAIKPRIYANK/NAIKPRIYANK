@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Channel](https://www.youtube.com/channel/UCX26HQPm9aCgvf03yzh3bhg)**
-
 - 📫 How to reach me **priyanknaik17@gmail.com**
 
 - ⚡ Fun fact **I love Cricket and Badminton.**
