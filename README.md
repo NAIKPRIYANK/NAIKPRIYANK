@@ -32,7 +32,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NAIKPRIYANK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NAIKPRIYANK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
