@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learnig **Java Development and Flutter Development.**
 
-- 🌱 My aim **TO BECOME JAVA FULL STACK DEVELOPER.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **priyanknaik17@gmail.com**
