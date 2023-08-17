@@ -46,4 +46,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NAIKPRIYANK">
 </a>
-<a href="https://github.com/NAIKPRIYANK?tab=followers"><img src="https://img.shields.io/github/followers/NAIKPRIYANK?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NAIKPRIYANK?tab=followers"><img src="https://img.shields.io/github/followers/NAIKPRIYANK?label=Followers&style=social" alt="GitHub Badge"></a> 
