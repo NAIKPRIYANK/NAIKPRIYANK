@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying in field of IT engineering **[SPPU](http://www.unipune.ac.in/)**
 
-- 🌱 I’m currently learnig **Java Development and Flutter Development.**
+- 🌱 I’m currently learning **Java Development and Flutter Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
