@@ -2,7 +2,7 @@
 <img align = "center" alt="Coding" width="1500" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47vapaye45b95nvp77gjrzysdezir1urbmkg04s9ne&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
-<h3 align="center">I'm a passionate JAVA DEVELOPER from India.</h3>
+<h3 align="center">I'm a passionate FLUTTER DEVELOPER and PYTHON DEVELOPER from India.</h3>
 
 
 ## 🙋‍♂️ About Me
