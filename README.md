@@ -1,5 +1,5 @@
 
-<img align = "center" alt="Coding" width="1500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ4dXRkcjQ2emlpazZramJkY3VtcWZpemx6YXp6Y2N2aGk5ZmxlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align = "center" alt="Coding" width="1500" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47vapaye45b95nvp77gjrzysdezir1urbmkg04s9ne&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm PRIYANK</h1>
 <h3 align="center">I'm a passionate JAVA DEVELOPER from India.</h3>
